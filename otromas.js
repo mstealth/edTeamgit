@@ -1,0 +1,2 @@
+//estado
+console.log("salida");
